@@ -1,3 +1,3 @@
 module.exports = {
-  endpoint: 'https://new-demo.prismic.io/api/v2'
+  endpoint: 'https://coffee-nouha.prismic.io/api/v2'
 };
